@@ -61,7 +61,7 @@ The LCS is `"eieio"` — length `5`.
 - **Time Complexity:** `O(2^n1 * n2 * n3)`  
 - Only usable when input string lengths ≤ 10
 
-📄 File: [`LCSOfThreeBruteForce.java`](./LCSOfThreeBruteForce.java)
+📄 File: [`LCSOfThreeDP.java`](./LCSOfThreeDP.java)
 
 ---
 
