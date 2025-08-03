@@ -1,34 +1,37 @@
-# 📚 Word Search in 2D Matrix (Easy)
+# 🧩 Word Search in 2D Matrix (Easy)
 
-**Asked by Microsoft**
+**Asked in Interviews at Microsoft**
 
-## 🧩 Problem Statement
+## 📘 Problem Statement
 
-You are given a 2D matrix of characters and a target word. Your task is to check if the word exists in the matrix either:
+You are given a 2D matrix of characters and a target word.  
+Your task is to check whether the word exists in the matrix **either**:
 
-- Horizontally (left to right)
-- Vertically (top to bottom)
+- 🟦 Horizontally (Left to Right across rows)
+- ⬇️ Vertically (Top to Bottom across columns)
 
-### 🖥️ Input
-- A 2D character matrix of size M x N
-- A string representing the target word
+> 🔍 No need for diagonal, reverse, or backtracking logic in this version.
 
-### 📤 Output
-- Return `true` if the word exists in the matrix (row-wise or column-wise)
-- Else return `false`
+---
 
-### 🧪 Example
+## 🧾 Input Format
 
-```java
-Input:
+- A 2D matrix `M x N` of uppercase English letters.
+- A string `word` representing the target sequence to search.
+
+### 🧷 Constraints:
+- `1 ≤ M, N ≤ 100`
+- Word length ≤ `max(M, N)`
+- Characters are **only uppercase English letters**
+
+---
+
+## ✅ Example
+
+```python
 matrix = [
   ['F', 'A', 'C', 'I'],
   ['O', 'B', 'Q', 'P'],
   ['A', 'N', 'O', 'B'],
   ['M', 'A', 'S', 'S']
 ]
-word = "FOAM"
-
-Output:
-true
-
