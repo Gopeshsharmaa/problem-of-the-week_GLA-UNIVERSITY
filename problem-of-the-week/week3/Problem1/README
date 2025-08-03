@@ -1,13 +1,32 @@
-# 🔍 Word Search in 2D Matrix
+# 🔍 Word Search in 2D Matrix (Easy)
 
-**Problem asked by Microsoft**
+This repository contains a simple Python implementation to solve the **Word Search in a 2D Matrix** problem, as asked by **Microsoft**.
 
-## 📄 Problem Description
+---
 
-Given a 2D matrix of uppercase English characters and a target word, determine if the word exists:
+## 📌 Problem Statement
+
+You are given a **2D matrix of characters** and a **target word**.  
+Your task is to check if the word exists in the matrix **either**:
 
 - Horizontally (left to right)
 - Vertically (top to bottom)
+
+> No need to check diagonally, backwards, or use backtracking.
+
+---
+
+## 🧾 Input Format
+
+- A 2D character matrix of size `M x N`
+- A string representing the **target word**
+
+### 🧷 Constraints:
+- `1 ≤ M, N ≤ 100`
+- Word length ≤ `max(M, N)`
+- All characters are uppercase English letters
+
+---
 
 ## ✅ Example
 
