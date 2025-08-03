@@ -1,1 +1,34 @@
+# 📚 Word Search in 2D Matrix (Easy)
+
+**Asked by Microsoft**
+
+## 🧩 Problem Statement
+
+You are given a 2D matrix of characters and a target word. Your task is to check if the word exists in the matrix either:
+
+- Horizontally (left to right)
+- Vertically (top to bottom)
+
+### 🖥️ Input
+- A 2D character matrix of size M x N
+- A string representing the target word
+
+### 📤 Output
+- Return `true` if the word exists in the matrix (row-wise or column-wise)
+- Else return `false`
+
+### 🧪 Example
+
+```java
+Input:
+matrix = [
+  ['F', 'A', 'C', 'I'],
+  ['O', 'B', 'Q', 'P'],
+  ['A', 'N', 'O', 'B'],
+  ['M', 'A', 'S', 'S']
+]
+word = "FOAM"
+
+Output:
+true
 
