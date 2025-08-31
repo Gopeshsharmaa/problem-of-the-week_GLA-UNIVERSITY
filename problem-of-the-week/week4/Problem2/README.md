@@ -1,5 +1,6 @@
 # Problem 2: Search in a Sorted List Without Multiplication, Division, or Bit-Shifts
-```markdown
+```
+markdown
 # Problem 2: Search in a Sorted List Without Multiplication, Division, or Bit-Shifts
 
 **Company:** Netflix  
