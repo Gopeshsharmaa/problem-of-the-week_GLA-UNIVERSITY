@@ -1,4 +1,3 @@
----
 
 ### 📘 `Problem2/README.md`
 ```markdown
