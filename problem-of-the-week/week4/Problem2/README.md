@@ -1,5 +1,3 @@
-
-
 ---
 
 ### 📘 `Problem2/README.md`
