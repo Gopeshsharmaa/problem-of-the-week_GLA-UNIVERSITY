@@ -1,4 +1,3 @@
-
 ---
 # Problem3
 ```markdown
