@@ -1,5 +1,7 @@
+
+```
 # Problem 1: First Recurring Character in a String
-```markdown
+```
 # Problem 3: Count Friend Groups
 
 **Company:** Twitter  
