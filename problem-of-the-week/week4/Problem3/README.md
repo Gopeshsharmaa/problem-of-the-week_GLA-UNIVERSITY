@@ -1,6 +1,5 @@
 
 ---
-
 ### 📘 `Problem3/README.md`
 ```markdown
 # Problem 3: Count Friend Groups
