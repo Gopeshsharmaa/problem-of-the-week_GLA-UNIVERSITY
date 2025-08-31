@@ -1,5 +1,4 @@
----
-### 📘 `Problem2/README.md`
+# Problem 2: Search in a Sorted List Without Multiplication, Division, or Bit-Shifts
 ```markdown
 # Problem 2: Search in a Sorted List Without Multiplication, Division, or Bit-Shifts
 
